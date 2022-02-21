@@ -26,3 +26,7 @@ h5 {
   position: absolute;
   right: 0;
 }
+
+#panah-kiri {
+  float: right;
+}
