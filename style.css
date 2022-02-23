@@ -20,6 +20,16 @@ h5 {
   padding: 16px 0;
 }
 
+body a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.btn-success {
+  background-color: #5cb85f !important;
+  border-radius: 2px !important;
+}
+
 .navbar-nav {
   font-weight: 400 !important;
 }
