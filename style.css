@@ -30,8 +30,8 @@ body a {
   border-radius: 2px !important;
 }
 
-nav {
-  color: #000000 !important;
+.navbar-light .navbar-nav a.nav-link {
+  color: rgba(0, 0, 0, 1) !important;
   font-weight: 400 !important;
 }
 
