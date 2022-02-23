@@ -30,7 +30,8 @@ body a {
   border-radius: 2px !important;
 }
 
-.navbar-nav {
+nav {
+  color: #000000 !important;
   font-weight: 400 !important;
 }
 
