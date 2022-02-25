@@ -62,3 +62,19 @@ body a {
 .active-star {
   color: #f9cc00;
 }
+
+@media (max-width: 768px) {
+  .faqs {
+    text-align: center;
+  }
+
+  .why-us-text {
+    text-align: center;
+  }
+
+  .card-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

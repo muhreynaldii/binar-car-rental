@@ -18,7 +18,3 @@ $(document).ready(function () {
       },
     });
   });
-
-
-    // ["<img src='/img/testimonial/left_button.png'>", "<img src='/img/testimonial/left_button.png'>"
-    //   ],
