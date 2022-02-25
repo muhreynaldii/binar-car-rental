@@ -47,12 +47,6 @@ body a {
   font-weight: 400 !important;
 }
 
-#mobil {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-}
-
 #panah-kiri {
   float: right;
 }
@@ -75,6 +69,21 @@ body a {
   color: #f9cc00;
 }
 
+#mobil {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+@media (max-width: 1400px) and (min-width: 0px) {
+  #mobil {
+    display: none;
+  }
+  .hero-text {
+    text-align: center;
+  }
+}
+
 @media (max-width: 768px) {
   .faqs {
     text-align: center;
@@ -88,5 +97,9 @@ body a {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .hero-text {
+    text-align: center;
   }
 }
