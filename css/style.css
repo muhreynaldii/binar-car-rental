@@ -6,10 +6,6 @@
   list-style: none;
 }
 
-.checklist {
-  padding-right: 20px;
-}
-
 h1,
 h2,
 h3,
@@ -23,6 +19,22 @@ h5 {
 body a {
   text-decoration: none;
   color: #000000;
+}
+
+.hero {
+  background-color: #f1f3ff;
+  position: relative;
+}
+
+.banner {
+  background-color: #0d28a6;
+  height: 326px;
+  border-radius: 13px;
+  color: white;
+}
+
+.checklist {
+  padding-right: 20px;
 }
 
 .btn-success {
