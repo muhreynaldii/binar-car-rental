@@ -3,7 +3,7 @@ $(document).ready(function () {
       dots: false,
       margin: 10,
       nav: true,
-      navText: ["<img src='/img/testimonial/left_button.png'>", "<img src='/img/testimonial/right_button.png'>"
+      navText: ["<img src='./img/testimonial/left_button.png'>", "<img src='./img/testimonial/right_button.png'>"
     ],
       responsive: {
         0: {
